@@ -1,4 +1,8 @@
 /*
+    1.5.3
+        Fixes:
+            Fixed Amx Mod X 1.10 compatibility
+
     1.5.2
         Fixes:
             Fixed grenade throw direction
